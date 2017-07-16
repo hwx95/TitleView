@@ -3,6 +3,10 @@
 自定义标题栏
 本库是结合*TitleView*开源库与*PopMenuMore*开源库写的一个自定义标题栏库。
 
+## 效果图
+
+![](http://ww1.sinaimg.cn/large/9fad8192gy1fhlsogcm7aj216o1kwwfn.jpg)  
+
 ## 使用方法
 
 ### 1、添加依赖
