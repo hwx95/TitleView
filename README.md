@@ -5,7 +5,7 @@
 
 ## 效果图
 
-![](http://ww1.sinaimg.cn/large/9fad8192gy1fhlsogcm7aj216o1kwwfn.jpg)  
+![](http://ww1.sinaimg.cn/large/9fad8192gy1fhlsthw9l1j216o0koaar.jpg)
 
 ## 使用方法
 
