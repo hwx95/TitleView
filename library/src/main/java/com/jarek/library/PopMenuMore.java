@@ -168,6 +168,17 @@ public class PopMenuMore {
     }
 
     /**
+     * 作为指定View的下拉控制显示.
+     *
+     * @param parent 所指定的View
+     * @param xoff x轴偏移
+     * @param yoff y轴偏移
+     */
+    public void showAsDropDown(View parent,int xoff,int yoff) {
+        mPopupWindow.showAsDropDown(parent,xoff,yoff);
+    }
+
+    /**
      * 隐藏菜单.
      */
     public void dismiss() {

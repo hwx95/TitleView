@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         setting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mMenu.showAsDropDown(setting);
+                mMenu.showAsDropDown(setting,0,-50);
             }
         });
     }
