@@ -13,6 +13,7 @@
         android:layout_marginRight="15dip"
         android:contentDescription="@null" />
 
+
     <com.jarek.library.PopMenuMoreListView
         android:id="@+id/menu_listview"
         android:layout_width="wrap_content"
@@ -23,4 +24,10 @@
         android:divider="#FFFFFF"
         android:dividerHeight="1px"
         android:focusable="true" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/down_arrow_drawable"
+        android:layout_gravity="center"/>
+
 </LinearLayout>
