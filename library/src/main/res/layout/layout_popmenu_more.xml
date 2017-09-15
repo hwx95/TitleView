@@ -25,9 +25,9 @@
         android:dividerHeight="1px"
         android:focusable="true" />
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/down_arrow_drawable"
+        android:layout_width="17dp"
+        android:layout_height="8dp"
+        android:background="@drawable/down"
         android:layout_gravity="center"/>
 
 </LinearLayout>
